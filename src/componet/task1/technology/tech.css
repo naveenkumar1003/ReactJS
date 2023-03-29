@@ -1,0 +1,17 @@
+.src1{
+    padding-right: 20px;
+}
+ .data{
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+}
+.border1{
+    border-radius: 20px;
+    border-top:2px solid red;
+
+}
+.out{
+    border-top:5px solid red;
+}

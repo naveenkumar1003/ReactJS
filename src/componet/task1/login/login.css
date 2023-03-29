@@ -1,0 +1,43 @@
+
+   .img{
+    height: 300px;
+    width:300px;
+   }
+  
+   .user{
+    color:green;
+   }
+   
+
+.user{
+ color:green;
+}
+.p{
+    border-radius: 10px;
+    border: none;
+    outline: none;
+   
+   
+   
+}
+.but{
+    border-radius: 20px;
+    padding: 5px;
+    width: 200px;
+    border: none;
+    outline: none;
+}
+.b{
+    background-color:violet; 
+    padding: 25px;
+    height: 100vh;
+}
+.container{
+    
+   border-radius: 50px;
+
+}
+.span{
+    background-color: gray;
+    border-radius:20px;
+}

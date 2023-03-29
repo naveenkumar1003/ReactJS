@@ -1,0 +1,22 @@
+.div{
+    background-image: url(back.jpg);
+    background-size: cover;
+    height:100vh;
+}
+.div1{
+   
+    background-image: url(slate.png);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.count{
+    text-align: center;
+   
+    padding-top: 200px;
+}
+.btn{
+    width: 500px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}

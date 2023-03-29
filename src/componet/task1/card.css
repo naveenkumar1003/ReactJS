@@ -1,0 +1,10 @@
+.cardimg{
+    background-image: url(backimg.png);
+    background-size: cover;
+    height: 100vh;
+}
+.src{
+    width: 300px;
+    height: 150px;
+    
+   } 

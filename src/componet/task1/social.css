@@ -1,0 +1,24 @@
+.img1{
+    background-image: url(night.jpg);
+    /* background-size: cover; */
+    height:100vh;
+   }
+.btn1{
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.btn3{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 20px;
+}
+.btn2{
+    background-color: white;
+    border-radius: 10px;
+    padding:20px;
+}
+.h{
+    margin-top: 200px;
+}

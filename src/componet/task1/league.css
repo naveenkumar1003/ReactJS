@@ -1,0 +1,11 @@
+   .c{
+     height: 350px;
+   }
+   .img2{
+    background-color: black;
+    height: 100vh;
+   }
+   .row1{
+    padding-right:0 !important;
+    padding-left:0!important;
+   } 
